@@ -37,8 +37,8 @@ main {float: left; width: 575px;}
 
 /* Content
 --------------------------------- */
-h1 {float: left; width: 60%; margin-bottom: -1%;}
-h2 {float: left; width: 60%; margin-bottom: 1%;} 
+h2 {float: left; width: 60%; margin-bottom: -1%;}
+h3 {float: left; width: 60%; margin-bottom: 1%;} 
 
 
 .return {margin-bottom: 5%;} /* Margin added to bottom of form.html */
