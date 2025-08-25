@@ -13,7 +13,7 @@ main {float: left; width: 60%;}
 .sidebar {float: right; width: 30%; font-weight: bold;
    font-size:larger; color: rgb(34, 10, 90); padding-top: -10%; padding-bottom: 10%;}
 .sidebar-A {float: right; width: 38%; font-weight: bold; font-size:larger; color: rgb(34, 10, 90);
-   padding-top: -10%; padding-bottom: 10%;}    
+   padding-top: -10%; padding-bottom: 10%; margin-left: 3%;}    
 
 /* Masthead
 --------------------------------- */
